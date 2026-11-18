@@ -1,0 +1,15 @@
+# Large simulator sources: install from the versions in README.md
+omnetpp-*/
+inet-*/
+simu5g-*/
+veins-*/
+sumo119/
+# Build and result artifacts
+*.o
+*.so
+*.vec
+*.vci
+*.sca
+*.pt
+__pycache__/
+.DS_Store
